@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* Optional: global styles */
+html, body {
+  height: 100%;
+}
+
+body {
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
